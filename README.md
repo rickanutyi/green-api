@@ -1,9 +1,10 @@
-теобходимо создать .env фай со следующим содержимым = \n
-REACT_APP_BASE_URL=dev base url = https://example.com/
-REACT_APP_BASE_URL_PROD=prod base url = https://example.com/
-REACT_APP_BUILD_TYPE=development
-команды для запуска = npm install & npm start
+теобходимо создать .env фай со следующим содержимым = \
+REACT_APP_BASE_URL=dev base url = https://example.com/ \
+REACT_APP_BASE_URL_PROD=prod base url = https://example.com/ \
+REACT_APP_BUILD_TYPE=development \
+команды для запуска = npm install & npm start \
 
+node version = 16-18+
 
 
 # Getting Started with Create React App
