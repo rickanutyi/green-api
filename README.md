@@ -1,3 +1,4 @@
+demo = https://rickanutyi.github.io/green-api/ \
 теобходимо создать .env фай со следующим содержимым = \
 REACT_APP_BASE_URL=dev base url = https://example.com/ \
 REACT_APP_BASE_URL_PROD=prod base url = https://example.com/ \
