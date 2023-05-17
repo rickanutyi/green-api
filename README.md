@@ -1,3 +1,11 @@
+теобходимо создать .env фай со следующим содержимым = 
+REACT_APP_BASE_URL=dev base url = https://example.com/
+REACT_APP_BASE_URL_PROD=prod base url = https://example.com/
+REACT_APP_BUILD_TYPE=development
+команды для запуска = npm install & npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
