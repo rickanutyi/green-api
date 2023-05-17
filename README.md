@@ -1,4 +1,4 @@
-теобходимо создать .env фай со следующим содержимым = 
+теобходимо создать .env фай со следующим содержимым = \n
 REACT_APP_BASE_URL=dev base url = https://example.com/
 REACT_APP_BASE_URL_PROD=prod base url = https://example.com/
 REACT_APP_BUILD_TYPE=development
